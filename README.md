@@ -2,7 +2,7 @@
 ###  Date: 22/08/2024
 
 # AIM:
-To Develop a python program to Plot a time series data for pH level for water quality
+To Develop a python program to Plot a time series data for Price of Methi.
 
 # ALGORITHM:
 
